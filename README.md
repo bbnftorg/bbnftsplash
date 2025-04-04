@@ -1,2 +1,0 @@
-# bbnftsplash
-advert splash
